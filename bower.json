@@ -1,0 +1,22 @@
+{
+  "name": "codeschool_angular",
+  "homepage": "https://github.com/chweeks/codeschool_angular",
+  "authors": [
+    "chweeks <chrisharryweeks@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
